@@ -1,1 +1,2 @@
-What a project
+#!/bin/bash
+echo "ALX School"
